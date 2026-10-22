@@ -1,4 +1,4 @@
-# consultoria-bradesco# 🏦 Projeto: Consultoria Inteligência Analítica — Bradesco
+🏦 Projeto: Consultoria Inteligência Analítica — Bradesco
 **Repositório de Soluções de Advanced Analytics & Data Science**
 
 Este repositório contém os entregáveis técnicos desenvolvidos para simular um cenário real de consultoria e modelagem preditiva avançada voltada à área de Inteligência e Analytics do **Bradesco** (Osasco-SP). O objetivo principal é mapear oportunidades de negócio e implementar modelos de inteligência artificial para otimizar a rentabilidade e o engajamento digital dos correntistas.
